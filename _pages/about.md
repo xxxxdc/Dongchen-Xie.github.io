@@ -17,4 +17,4 @@ I'm currently a second-year postgraduate student at the School of Cyber Science 
   <span style="background-color: #0052cc; color: white; padding: 2px 6px; border-radius: 2px;">ASE'25</span> 
   **Not Every Patch is an Island: LLM-Enhanced Identification of Multiple Vulnerability Patches**
 </span>
-*<span style="font-size: 0.8em;">Yi Song, **Dongchen Xie**, Lin Xu, He Zhang, Chunying Zhou, Xiaoyuan Xie* (I am a Co-first Author)</span>*
+<span style="font-size: 0.8em;">Yi Song, **Dongchen Xie**, Lin Xu, He Zhang, Chunying Zhou, Xiaoyuan Xie*  (I am a **Co-first Author**)</span>
