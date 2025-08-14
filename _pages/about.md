@@ -12,4 +12,4 @@ I'm currently a second-year postgraduate student at the School of Cyber Science 
  I am fortunate to be advised by [Prof. Xiaoyuan Xie](https://xiaoyuanxie.github.io/) from the School of Computer Science, WHU. My research interests include, but are not limited to, software security and large language models, especially using AI to tackle some software issues (e.g., patch localization, bug-inducing commit identification).
 
 # <a id="publications"></a>Publications
-<span style="background-color: #0052cc; color: white; padding: 2px 6px; border-radius: 2px;">ASE 2025</span> **Not Every Patch is an Island: LLM-Enhanced Identification of Multiple Vulnerability Patches**
+<span style="background-color: #0052cc; color: white; padding: 2px 6px; border-radius: 2px;">ASE 2025</span> <span style="white-space: nowrap;">**Not Every Patch is an Island: LLM-Enhanced Identification of Multiple Vulnerability Patches**</span>
